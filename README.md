@@ -14,8 +14,8 @@ MLG Clicker was originally developed by **Quantum Games**. The studio has since 
 
 If you enjoy this game and want to support the people who made it, check out their current work:
 
-- **Flexus Games on Google Play:** https://play.google.com/store/apps/developer?id=Flexus+Games
-- **Flexus Games on Twitter/X:** @FLEXUS.GAMES
+- **Flexus Games on Google Play:** https://play.google.com/store/apps/dev?id=6798355013080749593
+- **Flexus Games on Website:** https://flexus.games/
 
 ---
 
